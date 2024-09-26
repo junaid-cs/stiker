@@ -1,0 +1,80 @@
+@extends('../frontend/layout/main')
+
+@section('content')
+<style>
+     p {
+            margin: 10px 0;
+        }
+        h1{
+            margin: 20px 0;
+        }
+</style>
+<div class="container">
+
+
+
+<h1>Terms of Service</h1>
+    <p>These terms of service (“Terms”, “Agreement”) are an agreement between the operator of Rizqel.com (“Website operator”, “us”, “we” or “our”) and you (“User”, “you” or “your”). This Agreement sets forth the general terms and conditions of your use of the <a href="https://rizqel.com">https://rizqel.com</a> website and any of its products or services (collectively, “Website” or “Services”).</p>
+
+    <h2>Accounts and membership</h2>
+    <p>If you create an account at the Website, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account and any other actions taken in connection with it. Providing false contact information of any kind may result in the termination of your account. You must immediately notify us of any unauthorized uses of your account or any other breaches of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions. We may suspend, disable, or delete your account (or any part thereof) if we determine that you have violated any provision of this Agreement or that your conduct or content would tend to damage our reputation and goodwill. If we delete your account for the foregoing reasons, you may not re-register for our Services. We may block your email address and Internet protocol address to prevent further registration.</p>
+
+    <h2>Backups</h2>
+    <p>We are not responsible for content residing on the Website. In no event shall we be held liable for any loss of any Content. It is your sole responsibility to maintain appropriate backup of your Content. Not withstanding the foregoing, on some occasions and in certain circumstances, with absolutely no obligation, we may be able to restore some or all of your data that has been deleted as of a certain date and time when we may have backed up data for our own purposes. We make no guarantee that the data you need will be available.</p>
+
+    <h2>Prohibited uses</h2>
+    <p>In addition to other terms as set forth in the Agreement, you are prohibited from using the website or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.</p>
+
+    <h2>Purchases & Processing of applications</h2>
+    <p>In addition to other terms as set forth in the Agreement, we may choose, at our sole discretion, to process or cancel your order in certain circumstances. This may happen, for example, when the product you wish to buy is out of stock or has been priced at an incorrect price, the request is fraudulent, or we may see it in other appropriate circumstances at our sole discretion. We reserve the right, in our sole discretion, to follow special measures and steps to verify your identity to process your request. Knowing that we have the option not to charge you or refund the processing fees that we have not processed or cancelled.</p>
+    <h2>Intellectual property rights</h2>
+    <p>This Agreement does not transfer from Website operator to you any Website operator or third-party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Website operator. All trademarks, service marks, graphics and logos used in connection with our Website or Services, are trademarks or registered trademarks of Website operator or Website operator licensors. Other trademarks, service marks, graphics and logos used in connection with our Website or Services may be the trademarks of other third parties. Your use of our Website and Services grants you no right or license to reproduce or otherwise use any Website operator or third-party trademarks.</p>
+    <h2>Product description and policy</h2>
+    <p>We try to accurately describe all products on our website and with this effort we don’t guarantee that the descriptions contained in the site page are accurate, complete, reliable, updated or error-free. And in such cases in our sole discretion, any orders placed for a product or service that has been incorrectly posted on the Site will be processed or cancelled as a pricing error. In addition, we reserve the right, in our sole discretion, to rectify any error in Male full retail price. If the product displayed is different from the description, you have the right to return the product according to the return policy. We accept the return of the goods on a certain basis each case which may change from time to time. For more information, please visit the Return Policy page.</p>
+    <h2>Product shipping policy</h2>
+    <p>When you purchase items from a Marketplace seller, you credit card is immediately charged. Included in your payment is a pre-calculated fee for shipping. You will also have the option to pay Cash on Delivery, when you receive your shipments from the courier.</p>
+        <p>For buyers within the UAE, shipping charges and options vary according to the product being purchased or the area of delivery. Buyers can check the shipping policy mentioned in the seller’s page.</p>
+        <p>*Free Shipping Threshold applies to selected items and to selected areas sold by Rizqel.com and within promotional time period on purchases of announced amount for each state and city. For each state/area the rates of shipping and free delivery may vary. Please see promotional offers and shipping details on Rizqel.com.</p>
+        <p><strong>Note:</strong> Seller shipping times aren’t guaranteed and the actual performance varies by seller. On weekends deliveries are not available. Standard delivery estimates shipments to destinations that don’t have weekend delivery are based on 3-5 business days transit times, not including Friday or Saturday.</p>
+        <h2>Product return policy</h2>
+        <p>Items shipped from Rizqel.com can be returned within 3 days of receipt of shipment in most cases subject to each item category return rules. Some products have different policies or requirements associated with them. Perfumes, cosmetics and other luxury items should not be open to avail return option.</p>
+        <h2>Product refund policy</h2>
+        <p>Rizqel.com items can take up to 3-6 days for an item to reach us once you return it. Once the item reaches our fulfillment center, allow for up to 3-5 business days for us to receive and process your return. After the return is processed it may take 7 to 15 business days for the refund to show up depending on the refund method. The amount will be refunded in Dirhams (UAE), and is according to the conversion rate at the time the refund was issued.</p>
+        <h2>Damaged or Defective policy</h2>
+        <p>Damaged products during shipping can only be exchanged for the same product; by sending it to Rizqel Portal, Dubai. Shipping and credit card costs are non-refundable for undelivered, unclaimed or returned packages unless an error made by us. Any cost incurred to return the product/Products to us will not be refunded unless an error with your order made by us.</p>
+        <p>In the case of products which are delivered to you by signed-for delivery, you should inspect the products prior to signing for delivery. If you are not a consumer, we shall not be liable for any obvious damage or defects to products which would have been apparent on inspection at the point of delivery if you have signed for the delivery of the products without noting on the delivery paperwork that the products are “damaged”. If upon such inspection at the point of delivery you discover damage or defects to products you should either refuse delivery or clearly write “damaged” on the delivery paperwork which you are requested to sign.</p>
+        <p>Once delivered, the products ordered will become your responsibility and, except in relation to products that are damaged or faulty when delivered or have been incorrectly delivered, we will not accept any liability for their loss, damage or destruction after they have been delivered. We also accept no liability where you provide an incorrect delivery address or where you fail to collect the products from the delivery address which you specified.</p>
+        <h2>Availability of goods</h2>
+        <p>The site may contain information on the availability of goods. This information can be used that the product will be shipped after the order received successfully to the admin within 1-5 days period as mentioned by the vendor. As per Islamic sharia law, the vendor should have the possession of the products showed on the website to sale. However, Rizqel Portal management distinguished the store owners in to two groups. 1-The “Direct Owners” of the products who have the products in their possession what they displayed on Rizqel.com website. 2-And the “Selling Agents” who are supposed to arrange products as per the order received. Selling agents must have to mention either on their store or each product that displayed products are not in their possession and they are not the direct owners. Customers should select “Cash on Delivery” option to buy goods from selling agents. But in case if they pay before delivery, then Rizqel.com will not transfer customer’s paid amount to the vendor unless they arrange and deliver the goods to the customer. In rare cases, if the product may not be available when requested by the customer, the vendor will let you know by email or by phone call if this occurs.</p>
+        <h2>Fees and services</h2>
+        <p>All payments for goods and products on the website may be made online through our payment services, credit cards or other means of payment available on the website from time to time and our role ends upon receipt of your purchases.</p>
+        <p>All payments for goods and products on the website may be made online through our payment services, credit cards or other means of payment available on the website from time to time and our role ends upon receipt of your purchases. In the case of replacement or return of any purchases or if the buyer has purchased a product and has not received or received a product much lower than the value compared to the description, the buyer should not receive or accept the consignment and contact our customer service within 48 hours of receipt or failure to receive the relevant product. In any case, it is the responsibility of the customer to ensure that his purchases are checked before receiving them and to ensure that they are in excellent condition and match his request immediately after receiving them through the known shipping companies within 2-8 working days for all GCC countries Customer consignment via the shipping company website.</p>
+        <p>The Customer shall bear any taxes or surcharges that may be imposed upon their entry into the Country under the delivery address in the territory to which the product is shipped.</p>
+        <h2>
+        Limitation of liability
+        </h2>
+        <p>To the fullest extent permitted by applicable law, in no event will Website operator, its affiliates, officers, directors, employees, agents, suppliers or licensors be liable to any person for (a): any indirect, incidental, special, punitive, cover or consequential damages (including, without limitation, damages for lost profits, revenue, sales, goodwill, use or content, impact on business, business interruption, loss of anticipated savings, loss of business opportunity) however caused, under any theory of liability, including, without limitation, contract, tort, warranty, breach of statutory duty, negligence or otherwise, even if Website operator has been advised as to the possibility of such damages or could have foreseen such damages. To the maximum extent permitted by applicable law, the aggregate liability of Website operator and its affiliates, officers, employees, agents, suppliers and licensors, relating to the services will be limited to an amount greater of one dollar or any amounts actually paid in cash by you to Website operator for the prior one-month period prior to the first event or occurrence giving rise to such liability. The limitations and exclusions also apply if this remedy does not fully compensate you for any losses or fails of its essential purpose.</p>
+        <h2>Indemnification</h2>
+        <p>You agree to indemnify and hold Website operator and its affiliates, directors, officers, employees, and agents harmless from and against any liabilities, losses, damages or costs, including reasonable attorneys’ fees, incurred in connection with or arising from any third-party allegations, claims, actions, disputes, or demands asserted against any of them as a result of or relating to your content, your use of the website or services or any willful misconduct on your part.</p>
+        <h2>Severability</h2>
+        <p>All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal, invalid or unenforceable. If any provision or portion of any provision of this Agreement shall be held to be illegal, invalid or unenforceable by a court of competent jurisdiction, it is the intention of the parties that the remaining provisions or portions thereof shall constitute their agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.</p>
+        <h2>Changes and amendments</h2>
+        <p>We reserve the right to modify this Agreement or its policies relating to the Website or Services at any time, effective upon posting of an updated version of this Agreement on the Website. When we do, we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.</p>
+        <h2>Acceptance of these terms</h2>
+        <p>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Website and its Services. Contacting us If you have any questions about this Agreement, please contact us.
+
+        </p>
+        </div>
+
+@endsection
+@section('script')
+<script>
+   	@if(Session::has('status'))
+    toastr.success("{{ Session::get('status') }}")
+@endif
+	@if(Session::has('statusError'))
+    toastr.error("{{ Session::get('statusError') }}")
+@endif 
+</script>
+
+@endsection
