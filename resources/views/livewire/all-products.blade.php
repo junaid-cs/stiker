@@ -7,7 +7,7 @@
                                 <a href="#products" wire:click="subcategory({{ $side_items->id }})">
                                     <div class="cat-icon">
                                         
-                                        <img src="{{asset($side_items->image)}}" alt="" width="42" height="42">
+                                        <img src="{{asset($side_items->image)}}" alt="" width="100%" height="100%">
                                     </div>
                                     <span>{{$side_items->subcategory}}</span>
                                 </a>

@@ -285,6 +285,135 @@
 .contact-info span{
     font-weight:normal;
 }
+.stickerform {
+            width: 300px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin: 0px ;
+            background-color: #f9f9f9;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h3 {
+            margin-bottom: 10px;
+        }
+        .size-help {
+            float: right;
+            font-size: 12px;
+            color: #0073e6;
+        }
+        .quantity-options {
+            display: flex;
+            justify-content: space-between;
+        }
+        .quantity-options div {
+            color: green;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+			font-weight: normal;
+        }
+        label:hover {
+           background-color: #ecf3fe;
+        }
+		tr:hover{
+			background-color: #ecf3fe;
+
+		}
+        input[type="radio"] {
+            /* margin-right: 10px; */
+        }
+        .btn-submit {
+            background-color: #ff6600;
+            border: none;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            width: 100%;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .btn-submit:hover {
+            background-color: #ff8533;
+        }
+		.quantity-selection {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+h3 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.quantity-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.quantity-row input[type="radio"] {
+  margin-right: 10px;
+}
+
+.quantity-row label {
+  flex: 1;
+}
+
+.price_list {
+  font-weight: bold;
+  color: #333;
+}
+
+.savings {
+  color: green;
+  font-size: 14px;
+}
+
+.custom {
+  text-align: left;
+  margin-top: 15px;
+}
+
+.continue-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #ff6700;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.continue-btn:hover {
+  background-color: #ff5400;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	color: #404040;
+    font-size: 14px;
+}
+label.jsx-1909836779 {
+    text-align: right;
+    width: 100%;
+}
+
 </style>
 
 
