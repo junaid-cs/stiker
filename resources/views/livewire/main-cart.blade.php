@@ -27,7 +27,7 @@
 										<div class="snipcart-details top_brand_home_details">
 										
 											
-											<a href="javascript:void(0)" type="button" class="button" data-bs-toggle="modal" data-bs-target="#addmodel" wire:click="storecart({{$product->id}}, '{{$product->name}}', {{$product->discountprice}})">Add to cart</a>	
+											{{-- <a href="javascript:void(0)" type="button" class="button" data-bs-toggle="modal" data-bs-target="#addmodel" wire:click="storecart({{$product->id}}, '{{$product->name}}', {{$product->discountprice}})">Add to cart</a>	 --}}
 											
 									
 										</div>

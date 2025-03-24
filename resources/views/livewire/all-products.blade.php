@@ -48,9 +48,9 @@
                                                 <p>{{ $products->name }}</p>
                                                 </h4>
                                          
-                                            <div class="snipcart-details">
+                                            {{-- <div class="snipcart-details">
                                                 <a href="javascript:void(0)" type="button" class="button" data-bs-toggle="modal" data-bs-target="#addmodel" wire:click="storecart({{$products->id}}, '{{$products->name}}', {{$products->discountprice}})">Add to cart</a>	
-                                            </div>
+                                            </div> --}}
                                             </div>
                                             </div>
                                         </div>

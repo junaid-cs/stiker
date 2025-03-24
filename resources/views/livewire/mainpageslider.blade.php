@@ -16,7 +16,8 @@
       <div class="title">
           {{$product->name	}}</div>
       <div class="Price">{{$product->discountprice}} AED</div>
-    </div><div class="btn btn-primary" wire:click="storecart({{$product->id}}, '{{$product->name}}', {{$product->discountprice}})">Add to Cart</div>
+    </div>
+    {{-- <div class="btn btn-primary" wire:click="storecart({{$product->id}}, '{{$product->name}}', {{$product->discountprice}})">Add to Cart</div> --}}
     
     </li>
     @endif
